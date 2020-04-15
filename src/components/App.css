@@ -27,9 +27,9 @@
   }
 
   .logotext {
-    padding-bottom: 10px;
     color: red;
-    font-size:18pt;
+    font-size: 18pt;
+    font-weight: bold;
   }
 
   ul {
@@ -65,6 +65,6 @@
     grid-row-gap: 0px;
     }
     
-    .div1header { grid-area: 1 / 1 / 2 / 2; }
+    .div1header { grid-area: 1 / 1 / 2 / 2; display: flex; align-items: center; }
     .div2header { grid-area: 1 / 2 / 2 / 3; }
     .div3header { grid-area: 1 / 3 / 2 / 4; } 
