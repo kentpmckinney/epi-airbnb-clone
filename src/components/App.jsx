@@ -1,4 +1,5 @@
 import React from 'react';
+import Header from './Header';
 import './App.css';
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
   return (
     <React.Fragment>
       <main class="parent grid">
-        <div class="div1">Places to Stay </div>
+        <div class="div1"><Header /></div>
         <div class="div2">Location</div>
         <div class="div3">Online Experiences</div>
         <div class="div4">Monthly Stays</div>
