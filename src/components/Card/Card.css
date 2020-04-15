@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: row;
+}
+h1 {
+  font-size: 32px;
+}
+figure {
+  display: flex;
+  border: thin #c0c0c0 solid;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+  max-width: 220px;
+  margin: auto;
+}
+figcaption {
+  background-color: #fff;
+  color: #000;
+  /* font-family: Circular; */
+  padding: 3px;
+  text-align: left;
+  font-size: 18px;
+}
+img {
+  max-width:  260px;
+  /* max-height: 150px; */
+}

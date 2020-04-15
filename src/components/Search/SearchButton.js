@@ -1,10 +1,10 @@
 import React from 'react';
-import Search from './search'
+import Search from './Search'
 
 function SearchButton() {
   return (
     <React.Fragment>
-      <button>Search</button>
+      <button type="submit">🔍Search</button>
     </React.Fragment>
   );
 }

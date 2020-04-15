@@ -1,13 +1,14 @@
 import React from 'react';
-import Search from './search'
+import Search from './Search'
 
 function SearchInputDropdown() {
   return (
     <React.Fragment>
-      <input type="dropdown" />
+      <label for="numberOfGuests">Number of Guests:</label>
+      <input name="numberOfGuests" type="number" placeholder="Number of Guests" />
     </React.Fragment>
   );
 }
 
-export default SearchButton;
+export default SearchInputDropdown;
 

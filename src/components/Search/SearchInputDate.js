@@ -1,13 +1,14 @@
 import React from 'react';
-import Search from './search'
+import Search from './Search'
 
 function SearchInputDate() {
   return (
     <React.Fragment>
-      <input type="date" />
+      <label for="dateOfTravel">Check In/ Check Out</label>
+      <input name="dateOfTravel" type="date" placeholder="Add Date" />
     </React.Fragment>
   );
 }
 
-export default SearchButton;
+export default SearchInputDate;
 
