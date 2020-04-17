@@ -15,7 +15,7 @@
   padding: 10px;
 }
 
-.div1 { grid-area: 1 / 1 / 2 / 4; /*border: none !important;*/ }
+.div1 { grid-area: 1 / 1 / 2 / 4; border: none !important; }
 .div2 { grid-area: 2 / 1 / 3 / 4; }
 .div3 { grid-area: 4 / 1 / 5 / 2; }
 .div4 { grid-area: 4 / 2 / 5 / 3; }
@@ -70,11 +70,15 @@ li a:hover {
   border-radius: 25px;
   border-style: none;
   background-color: white;
-  box-shadow: 2px 2px 2px rgba(0,0,0,0.19);
+  -moz-box-shadow: 0 0 2px #bbb;
+  -webkit-box-shadow: 0 0 2px #bbb;
+  box-shadow: 0 0 2px #bbb;
 }
 
 .signup:hover {
-  box-shadow: 4px 4px 4px rgba(0,0,0,0.19);
+  -moz-box-shadow: 0 0 2px 3px #bbb;
+  -webkit-box-shadow: 0 0 2px 3px #bbb;
+  box-shadow: 0 0 2px 3px #bbb;
 }
 
 .header {

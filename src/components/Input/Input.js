@@ -1,12 +1,12 @@
 import React from "react";
 
-function testInputDivs(props) {
+function Input(props) {
   return (
     <div class="specialty-input">
-      <label for={props.id}>{props.labelText}</label>
+      <label for={props.inputId}>{props.labelText}</label>
       <input type="text" placeholder={props.placeholderText} required />
     </div>
   );
 }
 
-export default Ticket;
+export default Input;
