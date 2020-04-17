@@ -4,8 +4,6 @@ import Search from './Search/Search';
 import './App.css';
 
 function App() {
-  const name = "Thato";
-  const name2 = "Haley";
   return (
     <React.Fragment>
       <main class="parent grid">

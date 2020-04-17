@@ -16,23 +16,36 @@ function Card() {
               alt="card1" />
             <figcaption>An elephant at sunset<br /><span>Unique activities we can do together, let by a world of hosts</span></figcaption>
           </figure>
-          {/* <div className="">
-            <img src="./card1.png" alt="card1"/>
-            <p>Online Experiences</p>
-            <p>Unique activities we can do together, let by a world of hosts</p>
-          </div> */}
-          <figure>
-            <img src={card2}
-              alt="card2" />
-            <figcaption>An elephant at sunset<br /><span>Unique activities we can do together, let by a world of hosts</span></figcaption>
-          </figure>
-          <figure>
-            <img src={card3}
-              alt="card3" />
-            <figcaption>An elephant at sunset<br /><span>Unique activities we can do together, let by a world of hosts</span></figcaption>
-          </figure>
+
         </div>
       </div>
+
+
+
+      <div class="card-container">
+
+        {/* <div class="image-container"> */}
+
+
+        <div class="image-1">
+          <img src="img//card1.png" alt="card1" />
+          <div class="text-1">
+            <p>Online Experiences</p>
+            <p>Unique activities we can do<br /> together, let by a world of hosts</p>
+          </div>
+        </div>
+
+        {/*     
+        //Not working code, but an example of how we might use props:     
+      <div class="image-1">
+          <img src="{prop.imgSrc}" alt="{props.altText}"/>
+          <div class="text-1">
+            <p>{props.headline}</p>
+            <p>{props.paragraph}</p>
+          </div>
+        </div>
+ */}
+
     </React.Fragment>
   )
 }
