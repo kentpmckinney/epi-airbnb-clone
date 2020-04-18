@@ -4,7 +4,7 @@ function Input(props) {
   return (
     <div class="specialty-input">
       <label for={props.inputId}>{props.labelText}</label>
-      <input type="text" placeholder={props.placeholderText} required />
+      <input type="text" name={props.inputId} placeholder={props.placeholderText} required />
     </div>
   );
 }

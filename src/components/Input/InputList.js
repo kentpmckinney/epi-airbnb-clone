@@ -1,5 +1,5 @@
 import React from 'react';
-import Input from 'Input.js';
+import Input from './Input.js';
 
 const masterInputList = [
   {
@@ -17,19 +17,49 @@ const masterInputList = [
     labelText: 'GUESTS',
     placeholderText: 'Add guests'
   }
-]
+];
 
 function InputList() {
   return (
-    <React.fragment>
-      {masterInputList.map((input, index) => {
-        <Input inputId={input.id}
+    <div>
+      {masterInputList.map((input, index) =>
+        <Input inputId={input.inputId}
           labelText={input.labelText}
           placeholderText={input.placeholderText}
           key={index} />
-      })}
-    </React.fragment>
+      )}
+    </div>
   )
 }
 
 export default InputList;
+
+
+// function CardList() {
+
+//   return (
+//     <React.Fragment>
+//       <hr />
+//       {masterCardList.map((card, index) =>
+//         <Card img={card.img}
+//           headline={card.headline}
+//           caption={card.caption}
+//           key={index} />
+//       )}
+//     </React.Fragment>
+//   );
+// }
+
+// export default InputList;
+
+// function Card(props) {
+//   console.log(props)
+//   return (
+//     <React.Fragment>
+//       <figure>
+//         <img src={props.img} alt={props.headline}></img>
+//         <figcaption>{props.headline}<br /><span>{props.caption}</span></figcaption>
+//       </figure>
+//     </React.Fragment>
+//   );
+// }

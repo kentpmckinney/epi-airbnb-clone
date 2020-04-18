@@ -1,14 +1,15 @@
 import React from 'react';
 import Nav from './Nav';
-import Logo from './logo.png';
+import logo from './img/logo.png';
+import './Header.css';
 
 function Header() {
   return (
     <React.Fragment>
-      <div class="header">
-        <div class="div1header"><img src={Logo} alt=''></img><span class='logotext'>airbnb</span></div>
-        <div class="div2header"> </div>
-        <div class="div3header"><Nav /></div>
+      <div className="header">
+        <div className="div1header"><img src={logo} alt=''></img><span className='logotext'>airbnb</span></div>
+        <div className="div2header"> </div>
+        <div className="div3header"><Nav /></div>
       </div>
     </React.Fragment>
   );

@@ -1,18 +1,19 @@
 import React from 'react';
-import Locale from './locale.png';
-import Dropdown from './dropdown.png';
+import locale from './img/locale.png';
+import dropdown from './img/dropdown.png';
+import './Nav.css';
 
 function Nav() {
   return (
     <React.Fragment>
       <span>
-        <ul class='nav'>
-          <li><img src={Locale} alt='locale'></img><img src={Dropdown} alt=''></img></li>
+        <ul className='nav'>
+          <li><img src={locale} alt='locale'></img><img src={dropdown} alt=''></img></li>
           <li><a>Host your home</a></li>
           <li><a>Host an experience</a></li>
           <li><a>Help</a></li>
           <li><a>Log in</a></li>
-          <button class='signup'>Sign up</button>
+          <button className='signup'>Sign up</button>
         </ul>
 
       </span>
