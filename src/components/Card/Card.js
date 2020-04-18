@@ -4,10 +4,10 @@ import './Card.css';
 function Card(props) {
   return (
     <React.Fragment>
-      <figure>
-        <img src={props.img} alt={props.headline}></img>
-        <figcaption>{props.headline}<br /><span>{props.caption}</span></figcaption>
-      </figure>
+      <div id='figure'>
+        <img className='cardimg' src={props.img} alt={props.headline}></img>
+        <div id='figcaption'>{props.headline}<br /><span id='cardspan'>{props.caption}</span></div>
+      </div>
     </React.Fragment>
   );
 }
