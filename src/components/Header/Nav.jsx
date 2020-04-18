@@ -7,12 +7,12 @@ function Nav() {
   return (
     <React.Fragment>
       <span>
-        <ul className='nav'>
-          <li><img src={locale} alt='locale'></img><img src={dropdown} alt=''></img></li>
-          <li><a>Host your home</a></li>
-          <li><a>Host an experience</a></li>
-          <li><a>Help</a></li>
-          <li><a>Log in</a></li>
+        <ul className='nav navul'>
+          <li className='navli'><img src={locale} alt='locale'></img><img src={dropdown} alt=''></img></li>
+          <li className='navli'><a href='#1'>Host your home</a></li>
+          <li className='navli'><a href='#2'>Host an experience</a></li>
+          <li className='navli'><a href='#3'>Help</a></li>
+          <li className='navli'><a href='#4'>Log in</a></li>
           <button className='signup'>Sign up</button>
         </ul>
 
