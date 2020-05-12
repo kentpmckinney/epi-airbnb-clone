@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/epi-airbnb-clone/static/css/main.583549d2.chunk.css",
-    "main.js": "/epi-airbnb-clone/static/js/main.4c9a408e.chunk.js",
-    "main.js.map": "/epi-airbnb-clone/static/js/main.4c9a408e.chunk.js.map",
+    "main.css": "/epi-airbnb-clone/static/css/main.86dd294a.chunk.css",
+    "main.js": "/epi-airbnb-clone/static/js/main.ee0363c7.chunk.js",
+    "main.js.map": "/epi-airbnb-clone/static/js/main.ee0363c7.chunk.js.map",
     "runtime-main.js": "/epi-airbnb-clone/static/js/runtime-main.c2896dee.js",
     "runtime-main.js.map": "/epi-airbnb-clone/static/js/runtime-main.c2896dee.js.map",
     "static/js/2.2260fba8.chunk.js": "/epi-airbnb-clone/static/js/2.2260fba8.chunk.js",
     "static/js/2.2260fba8.chunk.js.map": "/epi-airbnb-clone/static/js/2.2260fba8.chunk.js.map",
     "index.html": "/epi-airbnb-clone/index.html",
-    "precache-manifest.0113c2a2dacccc491d8fa4f67324739e.js": "/epi-airbnb-clone/precache-manifest.0113c2a2dacccc491d8fa4f67324739e.js",
+    "precache-manifest.73f6d0826c994f09c3eb97e7620b32de.js": "/epi-airbnb-clone/precache-manifest.73f6d0826c994f09c3eb97e7620b32de.js",
     "service-worker.js": "/epi-airbnb-clone/service-worker.js",
-    "static/css/main.583549d2.chunk.css.map": "/epi-airbnb-clone/static/css/main.583549d2.chunk.css.map",
+    "static/css/main.86dd294a.chunk.css.map": "/epi-airbnb-clone/static/css/main.86dd294a.chunk.css.map",
     "static/js/2.2260fba8.chunk.js.LICENSE.txt": "/epi-airbnb-clone/static/js/2.2260fba8.chunk.js.LICENSE.txt",
     "static/media/card1.png": "/epi-airbnb-clone/static/media/card1.c977e12b.png",
     "static/media/card2.png": "/epi-airbnb-clone/static/media/card2.5df3cd7f.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.c2896dee.js",
     "static/js/2.2260fba8.chunk.js",
-    "static/css/main.583549d2.chunk.css",
-    "static/js/main.4c9a408e.chunk.js"
+    "static/css/main.86dd294a.chunk.css",
+    "static/js/main.ee0363c7.chunk.js"
   ]
 }
