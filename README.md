@@ -62,9 +62,10 @@ example
 Kent McKinney - [GitHub](https://github.com/kentpmckinney) - [LinkedIn](https://www.linkedin.com/in/kentpmckinney/)
 Winter Runion
 Andrew Kim
-Jordan S.
+Jordan Safford
 
-### Copyright &copy; 2020 Kent P. McKinney
+### Copyright &copy; 2020 Kent P. McKinney, Winter Runion, Andrew Kim, Jordan Safford
 
 ## Acknowledgments
 
+https://www.learnhowtoprogram.com/react/react-fundamentals/help-queue-social-media-airbnb-clone
