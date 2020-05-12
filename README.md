@@ -60,6 +60,9 @@ example
 ## Authors
 
 Kent McKinney - [GitHub](https://github.com/kentpmckinney) - [LinkedIn](https://www.linkedin.com/in/kentpmckinney/)
+Winter Runion
+Andrew Kim
+Jordan S.
 
 ### Copyright &copy; 2020 Kent P. McKinney
 
