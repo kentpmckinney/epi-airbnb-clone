@@ -1,5 +1,6 @@
 import React from 'react';
 import Input from './Input.js';
+import './Input.css';
 
 const masterInputList = [
   {
@@ -21,7 +22,7 @@ const masterInputList = [
 
 function InputList() {
   return (
-    <div>
+    <div id="search-bar" className="search-grid-container">
       {masterInputList.map((input, index) =>
         <Input inputId={input.inputId}
           labelText={input.labelText}
@@ -33,33 +34,3 @@ function InputList() {
 }
 
 export default InputList;
-
-
-// function CardList() {
-
-//   return (
-//     <React.Fragment>
-//       <hr />
-//       {masterCardList.map((card, index) =>
-//         <Card img={card.img}
-//           headline={card.headline}
-//           caption={card.caption}
-//           key={index} />
-//       )}
-//     </React.Fragment>
-//   );
-// }
-
-// export default InputList;
-
-// function Card(props) {
-//   console.log(props)
-//   return (
-//     <React.Fragment>
-//       <figure>
-//         <img src={props.img} alt={props.headline}></img>
-//         <figcaption>{props.headline}<br /><span>{props.caption}</span></figcaption>
-//       </figure>
-//     </React.Fragment>
-//   );
-// }
