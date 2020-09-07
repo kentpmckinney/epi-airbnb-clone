@@ -14,8 +14,7 @@
 .appdiv6 { grid-area: 3 / 1 / 4 / 4; color: purple; font-size:28pt; display: flex; align-items: center; } 
 
 main, body {
-  min-height: 100vh;
-  padding: 1em;
+  padding: 0.5em;
 }
 
 .App {

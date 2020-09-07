@@ -2,9 +2,9 @@ import React from 'react';
 import Header from './Header/Header';
 import InputList from './Input/InputList';
 import Card from './Card/Card';
-import card1 from "./CardList/img/card1.png";
-import card2 from "./CardList/img/card2.png";
-import card3 from "./CardList/img/card3.png";
+import card1 from "./Card/img/card1.png";
+import card2 from "./Card/img/card2.png";
+import card3 from "./Card/img/card3.png";
 import './App.css';
 
 function App() {
