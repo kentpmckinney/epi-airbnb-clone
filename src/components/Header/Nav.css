@@ -1,13 +1,11 @@
 .navul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
   background-color: #fff;
+  white-space: nowrap;
 }
 
 .navli {
-  float: left;
+  display: inline-block;
 }
 
 .navli a {

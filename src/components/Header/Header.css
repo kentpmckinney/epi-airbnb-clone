@@ -1,7 +1,5 @@
 .signup {
-  float: right;
-  height: 5vh;
-  width: 6vw;
+  padding: 7px;
   border-radius: 25px;
   border-style: none;
   background-color: white;
@@ -33,4 +31,3 @@
   font-size: 18pt;
   font-weight: bold;
 }
-  
