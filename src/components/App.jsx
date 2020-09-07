@@ -15,7 +15,7 @@ function App() {
       <div className="appdiv3">
         <Card img={card1}
           headline='Online Experiences'
-          caption='Unique activities we can do together, let by a world of hosts.'
+          caption='Unique activities we can do together, led by a world of hosts.'
           key={0} />
       </div>
       <div className="appdiv4">
@@ -27,7 +27,7 @@ function App() {
       <div className="appdiv5">
         <Card img={card3}
           headline='Frontline stays'
-          caption='Find or provice accommodations for COVID-19 responders.'
+          caption='Find or provide accommodations for COVID-19 responders.'
           key={0} />
       </div>
       <div className="appdiv6">We may be apart, but we'll get through<br />this together.</div>
