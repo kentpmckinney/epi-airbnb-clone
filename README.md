@@ -1,4 +1,6 @@
 <!-- Category: Epicodus;React;HTML/CSS/JS -->
+<!-- Portfolio: Yes -->
+
 # Airbnb Clone
 
 Mimics the user interface of the Airbnb web site
