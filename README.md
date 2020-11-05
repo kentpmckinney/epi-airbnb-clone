@@ -1,65 +1,76 @@
-<!-- Category: Epicodus;React;HTML/CSS/JS -->
-<!-- Portfolio: Yes -->
 
 # Airbnb Clone
 
 Mimics the user interface of the Airbnb web site
 
-https://github.com/kentpmckinney/epi-airbnb-clone
+  <br/>
 
-## Previewing this Project
+### How to Use
+.
 
-This project is hosted at: https://kentpmckinney.github.io/epi-airbnb-clone
+<br/>
 
-## Working with the Source Code
+### Previewing this Project
 
-The following instructions explain how to set up a development environment for this project on MacOS. Steps will differ depending on the operating system.
+<br/>
 
-### Prerequisites
+### Technologies Used
 
-The following software must be installed and properly configured on the target machine. 
+  <code>HTML/CSS/JS
+React</code>
+  <br/>
+  <br/>
 
-```
-An updated web browser (Internet Explorer is not compatible)
-```
-```
-Node.js
-```
-```
-Git (optional but recommended)
-```
+### Working with the Source Code
 
-### Setting up a Development Environment
+<details>
+  <summary>Instructions</summary>
 
-1. Download a copy of the source code from: https://github.com/kentpmckinney/epi-airbnb-clone
-   or clone using the repository link: https://github.com/kentpmckinney/epi-airbnb-clone.git
-2. Navigate to the folder location of the source files in Finder or in the Terminal
-3. Run the command `npm install` to download a local cache of the npm packages used by this application
-4. Build the application with the command `npm run build`
-5. Start the application with the command `npm run start`
+  <br>
+  The following are suggestions to help set up a development environment for this project. The actual steps needed may differ slightly depending on the operating system and other factors.
 
-## Deployment
+  <br/>
+  <br/>
 
-Run the command 'npm run build' to create a production version of the application in './build'
+  ### Prerequisites
 
-## Technologies Used
+  The following software must be installed and properly configured on the target machine. 
 
-* JavaScript
-* HTML
-* CSS
-* React
-* Webpack
-* Babel
+  
 
-## Authors
+* Git (recommended)
+  <br/>
 
-Kent McKinney - [GitHub](https://github.com/kentpmckinney) - [LinkedIn](https://www.linkedin.com/in/kentpmckinney/)
-Winter Runion
-Andrew Kim
-Jordan Safford
+  ### Setting up a Development Environment
 
-### Copyright &copy; 2020 Kent P. McKinney, Winter Runion, Andrew Kim, Jordan Safford
+  The following steps are meant to be a quick way to get the project up and running.
 
-## Acknowledgments
+  
+1. Download a copy of the source code from: https://github.com/kentpmckinney/epi-airbnb-clone or clone using the repository link: https://github.com/kentpmckinney/epi-airbnb-clone.git
+  <br/>
 
-https://www.learnhowtoprogram.com/react/react-fundamentals/help-queue-social-media-airbnb-clone
+  ### Notes
+
+  
+
+  ### Deployment
+
+  
+
+</details>
+
+<br/>
+
+### Authors
+
+[kentpmckinney](https://github.com/kentpmckinney), [wrunion](https://github.com/wrunion)
+<br/>
+<br/>
+
+### Acknowledgments
+
+<sub>https://www.learnhowtoprogram.com/react/react-fundamentals/help-queue-social-media-airbnb-clone</sub>
+<br/>
+<br/>
+
+###### <sub>Copyright&copy; 2020 [kentpmckinney](https://github.com/kentpmckinney), [wrunion](https://github.com/wrunion). All rights reserved.</sub>
