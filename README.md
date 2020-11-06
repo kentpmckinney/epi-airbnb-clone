@@ -11,6 +11,7 @@ Mimics the user interface of the Airbnb web site
 <br/>
 
 ### Previewing this Project
+![Screenshot](http://kentpmckinney.github.io/epi-airbnb-clone/epi-airbnb-clone.gif)
 
 <br/>
 
