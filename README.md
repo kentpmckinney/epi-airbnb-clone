@@ -6,7 +6,7 @@ Mimics the user interface of the Airbnb web site
   <br/>
 
 ### How to Use
-.
+This is a mock site and is not actually supposed to do anything.
 
 <br/>
 
