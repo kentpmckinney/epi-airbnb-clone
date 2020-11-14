@@ -24,7 +24,7 @@ React</code>
 
 ### Working with the Source Code
 
-<details>
+<details markdown='1'>
   <summary>Instructions</summary>
 
   <br>
