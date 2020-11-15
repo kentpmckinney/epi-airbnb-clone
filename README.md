@@ -26,54 +26,54 @@ React</code>
 
 ### Working with the Source Code
 
-<!-- <details markdown="1">
-  <summary markdown="1">Instructions</summary> -->
+<details markdown="1">
+<summary>Instructions</summary>
 
-  <br markdown="1"/>
-  The following are suggestions to help set up a development environment for this project. The actual steps needed may differ slightly depending on the operating system and other factors.
+<br/>
+The following are suggestions to help set up a development environment for this project. The actual steps needed may differ slightly depending on the operating system and other factors.
 
-  <br markdown="1"/>
-  <br markdown="1"/>
+<br/>
+<br/>
 
-  ### Prerequisites
+### Prerequisites
 
-  The following software must be installed and properly configured on the target machine. 
+The following software must be installed and properly configured on the target machine. 
 
-  
+
 
 * Git (recommended)
-  <br markdown="1"/>
+<br/>
 
-  ### Setting up a Development Environment
+### Setting up a Development Environment
 
-  The following steps are meant to be a quick way to get the project up and running.
+The following steps are meant to be a quick way to get the project up and running.
 
-  
+
 1. Download a copy of the source code from: https://github.com/kentpmckinney/epi-airbnb-clone or clone using the repository link: https://github.com/kentpmckinney/epi-airbnb-clone.git
-  <br markdown="1"/>
+<br/>
 
-  ### Notes
+### Notes
 
-  
 
-  ### Deployment
 
-  
+### Deployment
+
+
 
 <!-- </details> -->
 
-<br markdown="1"/>
+<br/>
 
 ### Authors
 
 [kentpmckinney](https://github.com/kentpmckinney), [wrunion](https://github.com/wrunion)
-<br markdown="1"/>
-<br markdown="1"/>
+<br/>
+<br/>
 
 ### Acknowledgments
 
 <sub markdown="1">https://www.learnhowtoprogram.com/react/react-fundamentals/help-queue-social-media-airbnb-clone</sub>
-<br markdown="1"/>
-<br markdown="1"/>
+<br/>
+<br/>
 
 ###### <sub markdown="1">Copyright&copy; 2020 [kentpmckinney](https://github.com/kentpmckinney), [wrunion](https://github.com/wrunion). All rights reserved.</sub>
