@@ -3,7 +3,7 @@
 
 Mimics the user interface of the Airbnb web site
 
-  <br/>
+<br/>
 
 ### How to Use
 This is a mock site and is not actually supposed to do anything.
@@ -19,10 +19,10 @@ A [live demo](https://kentpmckinney.github.io/epi-airbnb-clone) of this applicat
 
 ### Technologies Used
 
-  <code>HTML/CSS/JS
+<code>HTML/CSS/JS
 React</code>
-  <br/>
-  <br/>
+<br/>
+<br/>
 
 ### Working with the Source Code
 
@@ -60,7 +60,7 @@ The following steps are meant to be a quick way to get the project up and runnin
 
 
 
-<!-- </details> -->
+</details>
 
 <br/>
 
