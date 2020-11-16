@@ -19,7 +19,9 @@ A [live demo](https://kentpmckinney.github.io/epi-airbnb-clone) of this applicat
 
 ### Technologies Used
 
-<code>HTML/CSS/JS
+<code>JavaScript
+HTML
+CSS
 React</code>
 <br/>
 <br/>
@@ -40,16 +42,15 @@ The following software must be installed and properly configured on the target m
 
 
 * Git (recommended)
-* An updated web browser (Internet Explorer may not be compatible)
 <br/>
 
 ### Setting up a Development Environment
 
 The following steps are meant to be a quick way to get the project up and running.
 
-1. Download a copy of the source code from: https://github.com/kentpmckinney/epi-airbnb-clone or clone using the repository link: https://github.com/kentpmckinney/epi-airbnb-clone.git
+1. Download a copy of the source code from: [https://github.com/kentpmckinney/epi-airbnb-clone](https://github.com/kentpmckinney/epi-airbnb-clone) or clone using the repository link: <code>https://github.com/kentpmckinney/epi-airbnb-clone.git</code>
 1. Navigate to the folder location of the source files in in a terminal
-1. Make sure the file <code>package.json</code> is in the current folder and that <code>Node.js</node> is installed
+1. Make sure the file <code>package.json</code> is in the current folder and that <code>Node.js</code> is installed
 1. Run the command <code>npm install</code> to download a local cache of the npm packages used by this application
 1. Build the application with the command <code>npm run build</code>
 1. Start the application with the command <code>npm run start</code>
